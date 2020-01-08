@@ -1,0 +1,13 @@
+dev\lucasdeabreu\stockservice\OrderCanceledEvent.class
+dev\lucasdeabreu\stockservice\ProductRepository.class
+dev\lucasdeabreu\stockservice\StockException.class
+dev\lucasdeabreu\stockservice\StockEventListener.class
+dev\lucasdeabreu\stockservice\StockServiceApplication.class
+dev\lucasdeabreu\stockservice\Product.class
+dev\lucasdeabreu\stockservice\ProductService.class
+dev\lucasdeabreu\stockservice\StartupApplicationListener.class
+dev\lucasdeabreu\stockservice\BilledOrderEvent.class
+dev\lucasdeabreu\stockservice\Converter.class
+dev\lucasdeabreu\stockservice\OrderDoneEvent.class
+dev\lucasdeabreu\stockservice\BilledOrderHandler.class
+dev\lucasdeabreu\stockservice\Order.class
