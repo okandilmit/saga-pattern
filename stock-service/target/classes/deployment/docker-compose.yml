@@ -1,0 +1,10 @@
+version: '3.1'
+services:
+  stock-service:
+    image: okandilmit/stock-service:latest
+    container_name: stock-service
+    ports:
+      - 8083:8083
+    working_dir: /opt/app
+    command: ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/stock-service.jar"]
+
