@@ -3,7 +3,9 @@
 In this project there is 3 services which is;
 
 Stock Service: It checks if there is any stock for item or not
+
 Payment Service: It checks if the payment is succesful or not
+
 Order Service: For the order creation
 
 As the Saga Pattern commands, this microservices should be in order. Because that's what saga pattern does. In this example careography based saga pattern is used.
